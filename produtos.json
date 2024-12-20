@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "nome": "Echo Pop",
+    "imagem": "https://m.media-amazon.com/images/I/61V5FRUgX8L._AC_SL1000_.jpg",
+    "marca": "Amazon",
+    "preco": 259.9,
+    "estoque": 245
+  },
+  {
+    "id": "2",
+    "nome": "Echo Dot 5ª geração",
+    "imagem": "https://m.media-amazon.com/images/I/71xoR4A6q-L._AC_SL1000_.jpg",
+    "marca": "Amazon",
+    "preco": 329.9,
+    "estoque": 134
+  },
+  {
+    "id": "3",
+    "nome": "Novo Kindle - 16 GB",
+    "imagem": "https://m.media-amazon.com/images/I/71hbbhAqJJL._AC_SL1500_.jpg",
+    "marca": "Amazon",
+    "preco": 499.9,
+    "estoque": 223
+  },
+  {
+    "id": "4",
+    "nome": "Fire TV Stick HD",
+    "imagem": "https://m.media-amazon.com/images/I/61qQCckVsqL._AC_SL1500_.jpg",
+    "marca": "Amazon",
+    "preco": 320.9,
+    "estoque": 167
+  },
+  {
+    "id": "5",
+    "nome": "Controle Xbox sem Fio",
+    "imagem": "https://m.media-amazon.com/images/I/61qX3f8v5kL._AC_SL1500_.jpg",
+    "marca": "Xbox",
+    "preco": 439.9,
+    "estoque": 89
+  },
+  {
+    "id": "5",
+    "nome": "Cafeteira Expresso Anima",
+    "imagem": "https://m.media-amazon.com/images/I/717o9Xk2a2L._AC_SL1500_.jpg",
+    "marca": "Xbox",
+    "preco": 4000,
+    "estoque": 115
+  }
+]
